@@ -1,6 +1,16 @@
 ### Hi there 👋
 
-![](https://github-readme-stats.vercel.app/api?username=evillt&show_icons=true&count_private=true)
+<center>
+
+You can find me: [Blog](https://evila.me) [Twitter](https:/twitter.com/evillt) [Telegram](https://t.me/evillt)
+
+</center>
+
+I'm JC(AKA evillt), as a front-end developer.
+
+I built apps and tools:
+
+- [Ahnn.app](https://ahnn.app) is an accounting mobile webapp for Chinese based users.
 
 <!--
 **evillt/evillt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
