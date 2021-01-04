@@ -8,7 +8,7 @@ You can find me: [Blog](https://evila.me) [Twitter](https:/twitter.com/evillt) [
 
 I'm JC(AKA evillt), as a front-end developer.
 
-I built apps and tools:
+I build apps and tools:
 
 - [Ahnn.app](https://ahnn.app) is an accounting mobile webapp for Chinese based users.
 
