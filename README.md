@@ -6,7 +6,7 @@ You can find me: [Blog](https://evila.me) [Twitter](https:/twitter.com/evillt) [
 
 </center>
 
-I'm JC(AKA evillt), as a front-end developer.
+I'm Anthony(AKA evillt), as a front-end developer.
 
 I build apps and tools:
 
