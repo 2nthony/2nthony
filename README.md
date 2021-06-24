@@ -10,7 +10,7 @@ I'm Anthony(AKA evillt), as a front-end developer.
 
 I build apps and tools:
 
-- [Ahnn.app](https://ahnn.app) is an accounting mobile webapp for Chinese based users.
+- [macMineable](https://github.com/evillt/macmineable-release) is the unMineable 3-rd party app that you can mine cryptocurrency on macOS with ease.
 
 <!--
 **evillt/evillt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
