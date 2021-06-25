@@ -11,7 +11,7 @@ I'm Anthony(AKA evillt), as a front-end developer, Chinese.
 I build apps and tools:
 
 - [macMineable](https://github.com/evillt/macmineable-release): is the unMineable 3-rd party app that you can mine cryptocurrency on macOS with ease.
-- [OKEx 量化交易项目](https://github.com/evillt/okex-auto-trade-script): 自用 OKEx 量化交易
+- [OKEx 量化交易脚本](https://github.com/evillt/okex-auto-trade-script): 自用 OKEx 量化交易脚本，实现自动低买高卖
 
 <!--
 **evillt/evillt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
