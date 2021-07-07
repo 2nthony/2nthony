@@ -2,7 +2,7 @@
 
 <center>
 
-You can find me: [Blog](https://evila.me) [Twitter](https:/twitter.com/evillt) [Telegram](https://t.me/evillt)
+You can find me: [博客](https://evila.me) [Twitter](https:/twitter.com/evillt) [Telegram](https://t.me/evillt)
 
 </center>
 
