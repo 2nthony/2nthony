@@ -2,7 +2,7 @@
 
 <center>
 
-You can find me: [博客](https://www.notion.so/2nthony-3f2c504f3f7e403a91b4dc2105997376) [Twitter](https:/twitter.com/evillt) [Telegram](https://t.me/evillt)
+You can find me: [博客](https://sourl.cn/c3HK7p) [Twitter](https:/twitter.com/evillt) [Telegram](https://t.me/evillt)
 
 </center>
 
