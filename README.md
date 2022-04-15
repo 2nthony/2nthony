@@ -5,5 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/2nthony/sponsors-image/main/sponsors.svg" alt="https://github.com/sponsors/2nthony" />
+  <a href="https://github.com/sponsors/2nthony">
+    <img src="https://cdn.jsdelivr.net/gh/2nthony/sponsors-image/sponsors.svg" alt="https://github.com/sponsors/2nthony" />
+  </a>
 </p>
