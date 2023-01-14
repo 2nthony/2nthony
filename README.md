@@ -10,6 +10,15 @@
 - Working on a remote job.
 
 <!-- BLOG_POSTS_START -->
+## Latest Posts
+
+- [发布了一个手机 App](https://2nthony.com/posts/released-a-mobile-app)
+- [再再次打造 Vim 编辑器](https://2nthony.com/posts/vim-again-and-again)
+- [Logseq 体验](https://2nthony.com/posts/logseq)
+- [博客的终极奥义](https://2nthony.com/posts/ultimate-blog)
+- [当了几周的 "Leader"](https://2nthony.com/posts/be-a-leader-for-weeks)
+
+[👉 More posts](https://2nthony.com/)
 <!-- BLOG_POSTS_END -->
 
 ## Thanks!
