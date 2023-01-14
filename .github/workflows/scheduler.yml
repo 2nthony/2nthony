@@ -20,7 +20,7 @@ jobs:
         run: node main.js
 
       - name: Commit
-        uses: EndBug/add-and-commit@v4
+        uses: EndBug/add-and-commit@v9
         with:
           message: 'Chore: update README.md'
           add: 'README.md'
