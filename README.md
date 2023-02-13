@@ -12,11 +12,11 @@
 <!-- BLOG_POSTS_START -->
 ## Latest Posts
 
+- [使用  tauri-app 写了一个 Menubar app](https://2nthony.com/posts/tauri-menubar-app)
 - [2022 回顾](https://2nthony.com/posts/2022)
 - [发布了一个手机 App](https://2nthony.com/posts/released-a-mobile-app)
 - [再再次打造 Vim 编辑器](https://2nthony.com/posts/vim-again-and-again)
 - [Logseq 体验](https://2nthony.com/posts/logseq)
-- [博客的终极奥义](https://2nthony.com/posts/ultimate-blog)
 
 [👉 More posts](https://2nthony.com/)
 <!-- BLOG_POSTS_END -->
