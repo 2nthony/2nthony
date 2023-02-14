@@ -12,7 +12,7 @@
 <!-- BLOG_POSTS_START -->
 ## Latest Posts
 
-- [使用  tauri-app 写了一个 Menubar app](https://2nthony.com/posts/tauri-menubar-app)
+- [使用  tauri-app 写了一个 Menubar app (coin ticker)](https://2nthony.com/posts/tauri-menubar-app)
 - [2022 回顾](https://2nthony.com/posts/2022)
 - [发布了一个手机 App](https://2nthony.com/posts/released-a-mobile-app)
 - [再再次打造 Vim 编辑器](https://2nthony.com/posts/vim-again-and-again)
