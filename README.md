@@ -21,10 +21,3 @@
 [👉 More posts](https://2nthony.com/)
 <!-- BLOG_POSTS_END -->
 
-## Thanks!
-
-<p align="center">
-  <a href="https://github.com/sponsors/2nthony">
-    <img src="https://cdn.jsdelivr.net/gh/2nthony/sponsors-image/sponsors.svg" alt="https://github.com/sponsors/2nthony" />
-  </a>
-</p>
