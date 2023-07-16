@@ -11,7 +11,7 @@
 
 ## 🧸Toys
 
-- [Inkdays](inkdays.vercel.app/) Web 版 Days matter(倒数日) **个人**替代方案。
+- [Inkdays](https://inkdays.vercel.app/) Web 版 Days matter(倒数日) **个人**替代方案。
 
 <!-- BLOG_POSTS_START -->
 ## Latest Posts
