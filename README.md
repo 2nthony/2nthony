@@ -9,6 +9,10 @@
 - Imagining/building SaaS projects.
 - Working on a remote job.
 
+## 🧸Toys
+
+- [Inkdays](inkdays.vercel.app/) Web 版 Days matter(倒数日) **个人**替代方案。
+
 <!-- BLOG_POSTS_START -->
 ## Latest Posts
 
