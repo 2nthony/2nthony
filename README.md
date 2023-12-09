@@ -17,11 +17,11 @@
 <!-- BLOG_POSTS_START -->
 ## Latest Posts
 
+- [一顿操作就为了能充值 OpenAI](https://2nthony.com/posts/charge-openai)
 - [记录：通过 Cloudflare workers 使 Azure OpenAI API 兼容 OpenAI API](https://2nthony.com/posts/azure-openai-compat)
 - [我的 RSS 阅读器上位替代](https://2nthony.com/posts/rss-reader-again)
 - [写代码还有热/激情吗?](https://2nthony.com/posts/passion-of-coding)
 - [使用  tauri-app 写了一个 Menubar app (coin ticker)](https://2nthony.com/posts/tauri-menubar-app)
-- [2022 回顾](https://2nthony.com/posts/2022)
 
 [👉 More posts](https://2nthony.com/)
 <!-- BLOG_POSTS_END -->
