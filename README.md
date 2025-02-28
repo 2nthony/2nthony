@@ -11,7 +11,7 @@
 
 ## Apps
 
-- [RSSkit(持续更新中)](https://chromewebstore.google.com/detail/rsskit/kgikhpcpcgfjeopgkndhelednaimfiog?hl=en) RSS 阅读器，通过非常直观的 UI 保证了阅读体验，此外还添加了一些非常实用的功能如 AI 总结，reader view 等。
+- [RSSkit](https://chromewebstore.google.com/detail/rsskit/kgikhpcpcgfjeopgkndhelednaimfiog?hl=en) RSS 阅读器，通过非常直观的 UI 保证了阅读体验，此外还添加了一些非常实用的功能如 AI 总结，reader view 等。
 - [Inkdays](https://inkdays.vercel.app/) Web 版 Days matter(倒数日) **个人**替代方案。
 
 <!-- BLOG_POSTS_START -->
